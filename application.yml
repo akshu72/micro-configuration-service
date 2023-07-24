@@ -1,6 +1,7 @@
 spring:
    application:
-             name:config-Default
+             name:
+                  config-Default
 
 
 eureka:
